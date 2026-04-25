@@ -35,16 +35,6 @@ dotnet run
 
 ---
 
-# Screenshot da Aplicação
-
-Adicionar um print da aplicação funcionando no repositório para demonstrar o resultado final do sistema.
-
-Exemplo:
-
-* screenshot.png
-
----
-
 # Heurística: Ajuda e Documentação
 
 A aplicação foi desenvolvida de forma simples e objetiva para facilitar o uso do usuário sem necessidade de documentação complexa.
