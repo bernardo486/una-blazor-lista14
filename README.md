@@ -1,4 +1,9 @@
 # una-blazor-lista14
+## Identificação
+
+**Nome completo:** Bernardo Rocha Fernando  
+**Curso:** Ciências da Computação
+## Heurísticas de Nielsen
 
 # Tecnologia Utilizada
 
