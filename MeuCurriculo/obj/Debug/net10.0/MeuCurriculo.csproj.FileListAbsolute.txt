@@ -1,0 +1,14 @@
+C:\Users\Bernardo\Documents\MeuCurriculo\bin\Debug\net10.0\MeuCurriculo.exe
+C:\Users\Bernardo\Documents\MeuCurriculo\bin\Debug\net10.0\MeuCurriculo.deps.json
+C:\Users\Bernardo\Documents\MeuCurriculo\bin\Debug\net10.0\MeuCurriculo.runtimeconfig.json
+C:\Users\Bernardo\Documents\MeuCurriculo\bin\Debug\net10.0\MeuCurriculo.dll
+C:\Users\Bernardo\Documents\MeuCurriculo\bin\Debug\net10.0\MeuCurriculo.pdb
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.AssemblyInfoInputs.cache
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.AssemblyInfo.cs
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.dll
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\refint\MeuCurriculo.dll
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.pdb
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.genruntimeconfig.cache
+C:\Users\Bernardo\Documents\MeuCurriculo\obj\Debug\net10.0\ref\MeuCurriculo.dll
