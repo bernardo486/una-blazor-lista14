@@ -8,7 +8,7 @@
 
 A aplicação foi desenvolvida utilizando a linguagem **C#** com a plataforma **.NET**, através do terminal (**CMD**) para criação e execução do projeto.
 
-Ferramentas utilizadas:
+Ferramentas utilizadas;
 
 * **C#**
 * **.NET SDK**
